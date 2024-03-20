@@ -6,8 +6,8 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. XXX
-2. [git add](./add.md)
+1. [Что такое git add?](./git.md)
+2. [Что делает git add?](./add.md)
 
 ---
 
